@@ -2,7 +2,13 @@ layout_spectrum: 0.8810623
 typography_spectrum: 0.9665603
 color:
   lightness: 0.9165261
-  brandStrength: 0.2856645
+  brandStrength: 0.682968
   saturation: 0.8583474
   rhythmicContrast: 0.9721754
+  brandColors:
+    - '#FFFFFF'
+    - '#171C1F'
+    - '#5C6A72'
+    - '#8C95A0'
+    - '#D7A894'
 name: Pin It Accessories
